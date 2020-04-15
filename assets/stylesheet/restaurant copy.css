@@ -1,0 +1,92 @@
+body {
+
+	background: url('../Images/8.jpg');
+
+}
+
+
+
+h1 {
+
+	text-align: center;
+	width: 100%;
+	font-family: Comic Sans MS;
+	color: #f0dddd;
+	font-size: 3rem;
+}
+
+h2 {
+
+	text-align: center;
+	color: #f5b105;
+	font-family: Comic Sans MS;
+
+}
+
+.about {
+
+	width: 100%;
+	border: 5px solid white;
+	color: #f5cf6e;
+
+}
+
+.about p {
+	font-size: large;
+}
+
+.RestaurantList {
+
+	text-align: center;
+	font-size: xx-large;
+}
+
+img {
+
+	width: 200px;
+	height: 150px;
+
+}
+
+.element1, .element2, {
+	display: inline;
+
+}
+
+.element1 {
+	float: left;
+	width: 30%;
+}
+
+.element2 {
+	float: left;
+	width: 70%;
+	height: 150px;
+	background-color: blue;
+	
+
+}
+
+.list {
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
